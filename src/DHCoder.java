@@ -145,15 +145,6 @@ public class DHCoder {
         return secretKey.getEncoded();  
 	}
 	
-	public static void main(String[] args) {
-		try {
-			byte[] key = initKey().get(PUBLIC_KEY).toString().getBytes();
-			//initKey(key);
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-	}
 	   /** 
      * 取得私钥 
      * @param keyMap 密钥Map 
