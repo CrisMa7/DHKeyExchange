@@ -1,0 +1,36 @@
+y:
+    65497c54 107dc028 be03b2f6 15393f25 c8abbaa0 5d5a2f02 bf1e56cc c73b8bef
+    1f2d17f1 aa455aeb 6e582fc5 5ad2f922 0a451cba e74d6d91 e14feaf1 3b19725d
+p:
+    fca682ce 8e12caba 26efccf7 110e526d b078b05e decbcd1e b4a208f3 ae1617ae
+    01f35b91 a47e6df6 3413c5e1 2ed0899b cd132acd 50d99151 bdc43ee7 37592e17
+g:
+    678471b2 7a9cf44e e91a49c5 147db1a9 aaf244f0 5a434d64 86931d2d 14271b9e
+    35030b71 fd73da17 9069b32e 2935630e 1c206235 4d0da20a 6c416e50 be794ca4
+l:
+    384
+    SunJCE Diffie-Hellman Public Key:
+y:
+    677fe1a2 4637d66f 65c010e9 77f62bed 91c35110 e7ed192c 30b74bbd f354568e
+    1d0b3276 2fbae2c9 602d03f1 ecd7da94 6db16291 1aaddf2f 9a3e6a6d 20c5b90b
+p:
+    fca682ce 8e12caba 26efccf7 110e526d b078b05e decbcd1e b4a208f3 ae1617ae
+    01f35b91 a47e6df6 3413c5e1 2ed0899b cd132acd 50d99151 bdc43ee7 37592e17
+g:
+    678471b2 7a9cf44e e91a49c5 147db1a9 aaf244f0 5a434d64 86931d2d 14271b9e
+    35030b71 fd73da17 9069b32e 2935630e 1c206235 4d0da20a 6c416e50 be794ca4
+l:
+    384
+com.sun.crypto.provider.DHPrivateKey@272e3e6SunJCE Diffie-Hellman Public Key:
+y:
+    bdedf8d8 e4bb3353 d21de7ed 4e7a27c7 0adb00dd 1b839f67 1785beb5 db5028cd
+    97265ac6 9a3eccf4 14dbb53f 08bbb17e d35a9804 5896d956 43015b8a 7a254a92
+p:
+    fca682ce 8e12caba 26efccf7 110e526d b078b05e decbcd1e b4a208f3 ae1617ae
+    01f35b91 a47e6df6 3413c5e1 2ed0899b cd132acd 50d99151 bdc43ee7 37592e17
+g:
+    678471b2 7a9cf44e e91a49c5 147db1a9 aaf244f0 5a434d64 86931d2d 14271b9e
+    35030b71 fd73da17 9069b32e 2935630e 1c206235 4d0da20a 6c416e50 be794ca4
+l:
+    384
+com.sun.crypto.provider.DHPrivateKey@a4b20743
