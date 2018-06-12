@@ -15,6 +15,11 @@ public class DHTest {
      * @throws Exception 
      */
 	public static final void initKey() throws Exception{
+		//生成Alice密钥对
+		Map<String, Object> keyMapAlice = DHCoder.initKey();
+		publicKeyAlice = DHCoder.getPublicKey(keyMapAlice);
+		privateKeyAlice = DHCoder.getPrivateKey(keyMapAlice);
+		System.out.println(x);
 		
 	}
 	public static void main(String[] args) {
